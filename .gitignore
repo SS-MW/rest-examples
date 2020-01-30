@@ -1,5 +1,10 @@
 /*
+*/*/*mvn*
+*.zip
 
+!Basic_REST
+!Orchestrator
+!Orchestrator_Auth
 !src
 !pom.xml
 !.gitignore
